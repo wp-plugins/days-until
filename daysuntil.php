@@ -3,7 +3,7 @@
 Plugin Name: Days Until
 Plugin URI: http://ericmedin.com/musings/days-until-plugin/
 Description: Outputs the number of days until a specified date.
-Version: 1.0
+Version: 1.1
 Author: Eric Medin
 Author URI: http://ericmedin.com/
 License: 
